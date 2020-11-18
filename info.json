@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "754eddc672ac895b4fdb9be7df1f59c3fd95ab2a",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2020-11-18 21:58:37",
+    "files": 2,
+    "merge": false,
+    "message": "fix\n"
+  },
+  "remote": "https://github.com/ropensci/ots",
+  "pkg": "ots"
+}

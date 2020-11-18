@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/ots/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ots/reference/bats.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ots/reference/calcofi.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ots/reference/hot.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ots/reference/kelp.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ots/reference/ots-package.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ots/reference/type_sum.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ots/reference/uopg.html</loc>
+  </url>
+</urlset>
